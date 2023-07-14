@@ -1,6 +1,6 @@
-# T1_Modelagem_Simulacao
+# T3_Modelagem_Simulacao
 
-Trabalho avaliativo I da disciplina de Modelagem e Simulação
+Trabalho avaliativo III da disciplina de Modelagem e Simulação
 
 ## Dependências
 
@@ -14,5 +14,5 @@ Trabalho avaliativo I da disciplina de Modelagem e Simulação
     python -m venv '.venv'
     .\.venv\Scripts\activate.bat
     pip install -r requirements.txt
-    .\.venv\Scripts\Python.exe main.py
+    .\.venv\Scripts\Python.exe ./src/main.py
 ```
